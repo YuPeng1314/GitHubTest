@@ -6,6 +6,5 @@ package com.gs.test;
 public class GitHubTest {
     public static void main(String...args){
         System.out.println("Hello! This is my Project!");
-        System.out.println("...........");
     }
 }
